@@ -1,2 +1,5 @@
 # Supervised_Learning_with_scikit-learn
- Supervised Learning with scikit-learn
+
+##Tổng quan
+
+<img src = 'https://i.imgur.com/3oOWloZ.jpg'>
